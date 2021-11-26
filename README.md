@@ -7,13 +7,9 @@ Objetivo  General
 Objetivos Específicos
 1. Identificar los circuitos en serie y en paralelo que se presenten.
 2. Aplicar la ley de Ohm a circuitos en serie y en paralelo teniendo encuenta la ley de la corriente y de voltaje de Kirchhof en la aplicación de ejercicios teóricos.
-4. Relacionar el marco teórico con los ejercicios prácticos 
-
-![143535464-a670db82-7d1f-4499-ae3c-16d2c5e549da](https://user-images.githubusercontent.com/93900233/143535559-2974e0a3-bcb5-42e6-aa40-663242b4914d.png)
+3. Relacionar el marco teórico con los ejercicios prácticos 
 
 # MARCO TEORICO
-
-![143535464-a670db82-7d1f-4499-ae3c-16d2c5e549da](https://user-images.githubusercontent.com/93900233/143535556-5cd76368-206b-4ef4-adb9-018a51d28011.png)
 
  # Unidad 5
 
