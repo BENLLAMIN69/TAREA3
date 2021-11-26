@@ -264,6 +264,8 @@ Objetivos Específicos
 
 # EJERCICIO 47
 
+![image](https://user-images.githubusercontent.com/93900233/143539400-614fde04-6202-4325-b59f-6b53cc1ddda3.png)
+
 # EJERCICIO 49
 
 
