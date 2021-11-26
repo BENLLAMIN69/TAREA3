@@ -1,7 +1,8 @@
 # TAREA3
 
 # OBJETIVOS
-
+Objetivo  General
+- Explicar conceptos relacionados al tema de circuitos en serie y en paralelo, por medio de un informe académico que incluya material de estudio en mapas mentales y rosolución de ejercicios, que permita a los lectores comprender de mejor manera la estructuración de los circuitos eléctricos.
 Objetivos Específicos
 1. Aplicar la ley de Ohm a circuitos en serie y en paralelo.
 2. Aplicar la ley de la corriente y de voltaje de Kirchhof en ejercicios teóricos.
