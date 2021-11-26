@@ -268,7 +268,9 @@ Objetivos Específicos
 
 # EJERCICIO 49
 
+NO HAY COMO IDENTIFICAR LOS COLORES DE LA RESISTENCIA 
 
+![image](https://user-images.githubusercontent.com/93900233/143595537-a6298771-8dd8-461d-b6a7-67d38279fbf5.png)
 
 
 # VIDEO
