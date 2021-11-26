@@ -91,35 +91,58 @@ Objetivos Específicos
 
 # EJERCICIO 31
 
-![image](https://user-images.githubusercontent.com/93899422/143528634-fa9552ce-dea9-4a85-85e6-8f560223edac.png)
+![image](https://user-images.githubusercontent.com/93899422/143529058-92b80a50-3da4-433e-bd69-0b3c56bed86f.png)
 
 # EJERCICIO 33
 
-![image](https://user-images.githubusercontent.com/93899422/143528668-512c7a7a-75b8-438e-b109-0f958e371ca3.png)
+![image](https://user-images.githubusercontent.com/93899422/143529222-25538e61-5fa5-414e-b5a3-47537c79c289.png)
 
 # EJERCICIO 35
 
-
+![image](https://user-images.githubusercontent.com/93899422/143529458-db8444ac-9740-4bed-a407-9cfa2f711756.png)
+![image](https://user-images.githubusercontent.com/93899422/143529496-d6105649-52b1-4d44-a797-d1049d531145.png)
+![image](https://user-images.githubusercontent.com/93899422/143529522-9d86bd09-6094-44a4-a811-ed82bb638914.png)
 
 # EJERCICIO 37
 
+![image](https://user-images.githubusercontent.com/93899422/143529584-61ed44ec-8716-40d0-ac9f-81a6ba9d5472.png)
+
 # EJERCICIO 39
+
+![image](https://user-images.githubusercontent.com/93899422/143529617-b9a7a741-2883-4b4c-b8ee-cc915b6a418c.png)
 
 # EJERCICIO 41
 
+![image](https://user-images.githubusercontent.com/93899422/143529654-c6f0f272-7dae-41e3-89de-3a35472046eb.png)
+
 # EJERCICIO 43
+
+![image](https://user-images.githubusercontent.com/93899422/143529702-a4900419-5465-47a2-9a0b-dedc6746f2d9.png)
 
 # EJERCICIO 45
 
+
+
 # EJERCICIO 47
+
+![image](https://user-images.githubusercontent.com/93899422/143529747-5029ea9d-8224-4e8d-b217-92c0e6aed953.png)
 
 # EJERCICIO 49
 
+![image](https://user-images.githubusercontent.com/93899422/143529789-7bacb95d-716d-4805-bc75-8f9eb01c1ea7.png)
+
 # EJERCICIO 51
+
+![image](https://user-images.githubusercontent.com/93899422/143530433-33aa061b-9610-4711-a1d2-c710624d6130.png)
 
 # EJERCICIO 53
 
+![image](https://user-images.githubusercontent.com/93899422/143530486-c33f6806-d935-49b5-b2e6-e1539a7a5a4b.png)
+![image](https://user-images.githubusercontent.com/93899422/143530530-6e0154b8-48b4-44e8-a4a7-bb5005d58f76.png)
+
 # EJERCICIO 55
+
+
 
 # EJERCICIO 57
 
