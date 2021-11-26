@@ -30,6 +30,9 @@ Objetivos Específicos
 # VIDEO
 
 # CONCLUSIONES
+- Al revisar el contenido, se entendío que es lo que sucede con el voltaje, la corriente y la resistencia en los circuitos en serie y en paralelo y la forma de calcularlos.
+- El uso de circuitos en serie y en paralelo actuan de manera distinta ya sean como divisor de voltaje o de corriente.
+- Se pudo comprender que la ley de Ohm es la base para el entendimiento de los circuitos en serie y en paralelo, claro esta usando otros conocimientos como la leyes de Kirchhoff los cuales facilitan la resolucion de ejercicios prácticos y teóricos. 
 
 # BIBLIOGRAFÍA
 
