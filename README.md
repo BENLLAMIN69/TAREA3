@@ -93,11 +93,11 @@ Objetivos Específicos
 
 # EJERCICIO 31
 
-![image](https://user-images.githubusercontent.com/93899422/143529222-25538e61-5fa5-414e-b5a3-47537c79c289.png)
+![image](https://user-images.githubusercontent.com/93899422/143538227-d737430f-c2d3-4e00-a9b1-524bd6bee0bb.png)
 
 # EJERCICIO 33
 
-
+![image](https://user-images.githubusercontent.com/93899422/143529222-25538e61-5fa5-414e-b5a3-47537c79c289.png)
 
 # EJERCICIO 35
 
@@ -123,7 +123,7 @@ Objetivos Específicos
 
 # EJERCICIO 45
 
-
+![WhatsApp Image 2021-11-26 at 00 55 40](https://user-images.githubusercontent.com/93899422/143538271-772a297a-9787-4195-bf21-68a944813fe7.jpeg)
 
 # EJERCICIO 47
 
