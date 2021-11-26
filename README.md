@@ -142,14 +142,16 @@ Objetivos Específicos
 
 # EJERCICIO 55
 
-
+![image](https://user-images.githubusercontent.com/93899422/143533153-4ac60a94-c3ce-46bb-a807-ad6a15a301cf.png)
 
 # EJERCICIO 57
 
-
+![image](https://user-images.githubusercontent.com/93899422/143533194-06feb349-7d33-45ee-87e9-8d6e894721c9.png)
+![image](https://user-images.githubusercontent.com/93899422/143533250-e508de03-525a-4596-8cc2-9cad4a67159e.png)
 
 # EJERCICIO 59
 
+![image](https://user-images.githubusercontent.com/93899422/143533288-0558ddd6-b492-480c-9483-4f5491df2a56.png)
 
 
 # EJERCICIOS CAPITULO N°6
