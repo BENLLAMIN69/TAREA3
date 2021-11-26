@@ -2,7 +2,7 @@
 
 # OBJETIVOS
 Objetivo  General
-- Explicar conceptos relacionados al tema de circuitos en serie y en paralelo, por medio de un informe académico que incluya material de estudio en mapas mentales y rosolución de ejercicios, que permita a los lectores comprender de mejor manera la estructuración de los circuitos eléctricos.
+- Explicar conceptos relacionados al tema de circuitos en serie y en paralelo, por medio de un informe académico que incluya material de estudio en mapas mentales y resolución de ejercicios, que permita a los lectores comprender de mejor manera la estructuración de los circuitos eléctricos.
 
 Objetivos Específicos
 1. Identificar los circuitos en serie y en paralelo que se presenten.
