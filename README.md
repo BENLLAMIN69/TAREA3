@@ -243,7 +243,7 @@ Objetivos Específicos
 
 # EJERCICIO 39
 
-![image](https://user-images.githubusercontent.com/93900233/143534761-dca5495d-99f6-462b-a1fd-8dcd9b427e12.png)
+![image](https://user-images.githubusercontent.com/93900233/143535709-d6e3bf4b-aff8-49bb-ba0d-96757c0a6b5a.png)
 ![image](https://user-images.githubusercontent.com/93900233/143534773-f398dd1f-d86a-44f0-bdf7-6b170c40d5f9.png)
 
 # EJERCICIO 41
