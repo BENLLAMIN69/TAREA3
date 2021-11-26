@@ -214,15 +214,33 @@ Objetivos Específicos
 
 # EJERCICIO 27
 
+![image](https://user-images.githubusercontent.com/93900233/143532004-8f490f87-1fd9-409b-bed2-4afcf24e05f7.png)
+
 # EJERCICIO 29
+
+![image](https://user-images.githubusercontent.com/93900233/143532036-02832dbd-80d5-4bf1-aec6-428dd367439d.png)
 
 # EJERCICIO 31
 
+![image](https://user-images.githubusercontent.com/93900233/143532036-02832dbd-80d5-4bf1-aec6-428dd367439d.png)
+
 # EJERCICIO 33
+
+![image](https://user-images.githubusercontent.com/93900233/143532332-7b13efa9-dfc0-489f-8b00-1662bdb78af3.png)
 
 # EJERCICIO 35
 
+![image](https://user-images.githubusercontent.com/93900233/143532547-85fa9f14-da80-4b79-8f14-41d7ed5378bd.png)
+![image](https://user-images.githubusercontent.com/93900233/143532612-d26b691b-41e1-499a-91f5-c3ebe57edd1b.png)
+![image](https://user-images.githubusercontent.com/93900233/143532641-8c10bae2-616a-4098-a17e-c82b5924506d.png)
+
+![image](https://user-images.githubusercontent.com/93900233/143533787-978ffbb5-314f-4e76-a51e-7fc1426d6f14.png)
+![image](https://user-images.githubusercontent.com/93900233/143533820-438d54e5-f010-4537-b32c-1655cf04c68a.png)
+
 # EJERCICIO 37
+
+![image](https://user-images.githubusercontent.com/93900233/143533787-978ffbb5-314f-4e76-a51e-7fc1426d6f14.png)
+![image](https://user-images.githubusercontent.com/93900233/143533820-438d54e5-f010-4537-b32c-1655cf04c68a.png)
 
 # EJERCICIO 39
 
