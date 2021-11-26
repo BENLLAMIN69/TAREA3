@@ -272,6 +272,8 @@ Objetivos Específicos
 
 # VIDEO
 
+https://youtu.be/pz7t0qN3vRM
+
 # CONCLUSIONES
 - Al revisar el contenido, se entendío que es lo que sucede con el voltaje, la corriente y la resistencia en los circuitos en serie y en paralelo y la forma de calcularlos.
 - El uso de circuitos en serie y en paralelo actuan de manera distinta ya sean como divisor de voltaje o de corriente.
