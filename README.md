@@ -2,6 +2,10 @@
 
 # OBJETIVOS
 
+Objetivos Específicos
+1. Aplicar la ley de Ohm a circuitos en serie y en paralelo.
+2. Aplicar la ley de la corriente y de voltaje de Kirchhof en ejercicios teóricos.
+3. Relacionar el marco teórico con los ejercicios prácticos 
 # MARCO TEORICO
 
  # Unidad 5
