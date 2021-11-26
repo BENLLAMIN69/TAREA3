@@ -146,6 +146,8 @@ Objetivos Específicos
 
 # EJERCICIO 57
 
+
+
 # EJERCICIO 59
 
 
@@ -154,11 +156,19 @@ Objetivos Específicos
 
 # EJERCICIO 1
 
+![image](https://user-images.githubusercontent.com/93899422/143531878-f6007bfa-fd9d-4201-8655-74f34f1d8605.png)
+
 # EJERCICIO 3
+
+![image](https://user-images.githubusercontent.com/93899422/143531918-d3f85257-5cc9-4183-960b-17563656da3c.png)
 
 # EJERCICIO 5
 
+![image](https://user-images.githubusercontent.com/93899422/143531949-ebe15fd8-5bcb-425a-8ae9-9287907afb85.png)
+
 # EJERCICIO 7
+
+![image](https://user-images.githubusercontent.com/93899422/143532063-eabad993-f3b5-47fa-9eda-bbba635520dc.png)
 
 # EJERCICIO 9
 
