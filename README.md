@@ -15,3 +15,4 @@
 ![](https://github.com/BENLLAMIN69/TAREA3/blob/main/Ima/png%20(11).png)
 ![](https://github.com/BENLLAMIN69/TAREA3/blob/main/Ima/png%20(12).png)
 ![](https://github.com/BENLLAMIN69/TAREA3/blob/main/Ima/png%20(13).png)
+![](https://github.com/BENLLAMIN69/TAREA3/blob/main/Ima/png%20(14).png)
